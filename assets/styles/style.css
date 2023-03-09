@@ -1,3 +1,17 @@
 nav img {
   filter: invert(99%) sepia(91%) saturate(2%) hue-rotate(33deg) brightness(110%) contrast(101%);
+}
+
+.map-container {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+.map-container iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
 }/*# sourceMappingURL=style.css.map */
