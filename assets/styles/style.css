@@ -14,4 +14,8 @@ nav img {
   height: 100%;
   width: 100%;
   position: absolute;
+}
+
+.carousel-inner {
+  max-height: 35rem;
 }/*# sourceMappingURL=style.css.map */
