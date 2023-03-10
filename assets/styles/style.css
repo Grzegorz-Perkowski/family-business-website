@@ -1,3 +1,8 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding: 5rem;
+}
+
 nav img {
   filter: invert(99%) sepia(91%) saturate(2%) hue-rotate(33deg) brightness(110%) contrast(101%);
 }
