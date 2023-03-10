@@ -18,17 +18,4 @@ nav img {
 
 .carousel-inner {
   max-height: 40rem;
-}
-
-.contact-container {
-  overflow: hidden;
-  padding-left: 0;
-  padding-right: 0;
-}
-
-@media (min-width: 575.98px) {
-  .contact-container {
-    padding-left: calc(var(--bs-gutter-x) * 0.5);
-    padding-right: calc(var(--bs-gutter-x) * 0.5);
-  }
 }/*# sourceMappingURL=style.css.map */
