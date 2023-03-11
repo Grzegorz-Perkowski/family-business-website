@@ -23,4 +23,8 @@ nav img {
 
 .carousel-inner {
   max-height: 40rem;
+}
+
+.gallery-container img {
+  height: 100%;
 }/*# sourceMappingURL=style.css.map */
