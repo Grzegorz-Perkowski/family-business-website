@@ -25,10 +25,12 @@ nav img {
   max-height: 40rem;
 }
 
-.gallery-container img {
+.card.shadow-sm {
   height: 100%;
 }
 
-.card.shadow-sm {
-  height: 100%;
+@media (min-width: 576px) {
+  .gallery-container img {
+    height: 100%;
+  }
 }/*# sourceMappingURL=style.css.map */
