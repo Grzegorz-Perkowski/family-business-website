@@ -27,4 +27,8 @@ nav img {
 
 .gallery-container img {
   height: 100%;
+}
+
+.card.shadow-sm {
+  height: 100%;
 }/*# sourceMappingURL=style.css.map */
